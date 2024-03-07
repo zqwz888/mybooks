@@ -14,5 +14,10 @@
 
 
 .content {
-    width: 80%;
+  /*  margin: auto;*?
+    /*width: 80%;*/
+}
+pre {
+    font-size: 2em;
+    color: black;
 }
